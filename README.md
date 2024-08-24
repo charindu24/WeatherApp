@@ -1,6 +1,6 @@
 # Weather App
 
-This is a Node.js-based weather application that allows users to check the weather and rain prediction for a specific city or their current location using 
+This is a Node.js based weather application that allows users to check the weather and rain prediction for a specific city or their current location using 
 the OpenWeatherMap API. The application uses Express for server-side routing and EJS as the templating engine for rendering dynamic content.
 
 Public API Link: https://openweathermap.org/api
@@ -40,7 +40,7 @@ Make sure you have the following installed:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/weather-app.git
+    git clone https://github.com/charindu24/WeatherApp.git
     cd weather-app
     ```
 
@@ -59,3 +59,7 @@ Make sure you have the following installed:
 Start the application by running:
 ```bash
 npm start
+
+or develop based you can install nodemon
+
+npm i nodemon
